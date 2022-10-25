@@ -1,0 +1,14 @@
+.row {
+    padding: 20px;
+}
+
+div {
+    background-color: aquamarine;
+    text-align: center;
+
+}
+
+#nom {
+    font-weight: bold;
+    margin-top: 20%;
+}
